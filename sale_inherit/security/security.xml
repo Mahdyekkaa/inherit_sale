@@ -1,0 +1,8 @@
+<odoo>
+    <record id="group_show" model="res.groups">
+        <field name="name">Sales / Manger</field>
+    </record>
+    <record id="group2_show" model="res.groups">
+        <field name="name">Sales / User</field>
+    </record>
+</odoo>
